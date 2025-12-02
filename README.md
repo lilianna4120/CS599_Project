@@ -4,6 +4,7 @@ extractMD.py: Python file to extract metadata
 extractReview.py: Python file to extract user reviews
 merge_data.py: Python file to join the review and metadata files
 buildGraph.py: Python file to build the graph of average rating by year, where the x-axis is the year and the y-axis is the average rating
+merge_file.py: Python file to merge two files (merged_data_Baby.csv, merged_data_Health.csv) with category section; 0 as baby products and 1 as health and household products.
 
 to run the Python files - Baby indicates the file for baby products and Health indicates Health and Household products
 loadMD.py:
